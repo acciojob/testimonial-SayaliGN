@@ -6,5 +6,11 @@ body{
 	background-color:white;
 	border:1px solid grey;
 	text-align:right;
-	 padding: 10px 10px
+	padding: 10px 10px;
+}
+#p1{
+	font-style:italic;
+}
+#p2{
+	font-style:italic;
 }
